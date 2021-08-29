@@ -7,8 +7,8 @@
 
 ## 1-2 在TinkerCAD開一個新的Circuit, 分別使甪R, G, B三種顏色的LED, ON (亮) 0.5秒, OFF(滅) 0.5秒
 
-![image](https://user-images.githubusercontent.com/89304181/131237989-75972a8a-0e43-4125-84f4-02b1fab19e0c.png)
+
 
 ## 1-3 1-3 在TinkerCAD開一個新的Circuit, 分別使甪R, G, B三種顏色的LED, 讓LED ON, OFF的順序為R >> G >> B >> G >> R .... 無限循環.
 
-![image](https://user-images.githubusercontent.com/89304181/131237993-0b10a552-65e0-486b-b50d-5f1f504d9bd2.png)
+
