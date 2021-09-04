@@ -4,7 +4,7 @@
 
 https://www.notion.so/60d63bcefee14a7b81b443ac83f99954
 
-[上課時間:](https://github.com/Grace-TA/ES-Fall2021/blob/main/CourceSchedule.md) 
+上課時間:
 
 https://github.com/Grace-TA/ES-Fall2021/blob/main/CourceSchedule.md
 
