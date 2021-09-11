@@ -2,7 +2,7 @@
 
 ## 1.1 在TinkerCAD開一個新的Circuit, 加上一個外部的LED, 並且ON (亮) 1秒, OFF(滅) 1秒
 
-https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab1-LED/Demo_Lab1-1.gif
+![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab1-LED/Demo_Lab1-1.gif)
 
 ![image](https://user-images.githubusercontent.com/89304181/131235571-79e60021-7b0d-4038-820c-a6b83685e332.png)
 
