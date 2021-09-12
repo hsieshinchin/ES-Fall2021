@@ -167,3 +167,6 @@ void loop()
 
 ````
 
+## 實作2-4, 請參考以下[連結](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab2-RGB-LED/Lab2-4AB.md):
+
+https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab2-RGB-LED/Lab2-4AB.md
