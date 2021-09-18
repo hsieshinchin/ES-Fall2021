@@ -9,3 +9,20 @@
 ![image](https://user-images.githubusercontent.com/89304181/133880248-a1e54182-8659-4717-9853-25940498bd7e.png)
 
 
+````C
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  // turn the LED on (HIGH is the voltage level)
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(500); // Wait for 500 millisecond(s)
+  // turn the LED off by making the voltage LOW
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(500); // Wait for 500 millisecond(s)
+}
+
+````
