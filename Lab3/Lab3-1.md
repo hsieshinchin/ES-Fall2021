@@ -1,8 +1,11 @@
 # Lab 3-1: Ultrasonic Sensor (3-pin) + 測距 (以公分顯示即可) + RS232 Output 
 
-## 電路
+## 電路1
 
 ![image](https://user-images.githubusercontent.com/89304181/133913221-77a7c9d6-9ef5-4056-aa3f-6409a1e9f733.png)
+
+## 電路2
+![image](https://user-images.githubusercontent.com/89304181/133913257-cc38b4e2-931c-4440-805e-fca13301b876.png)
 
 
 
