@@ -3,7 +3,7 @@
 
 ## Circuit
 
-https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab3/Lab3-3.gif
+![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab3/Lab3-3.gif)
 
 ## Code
 
