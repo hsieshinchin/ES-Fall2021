@@ -13,5 +13,5 @@
 
 ## Another method by Power Point
 
-"How to make Animated GIF using Microsoft PowerPoint", https://www.youtube.com/watch?v=szbFDKVHkOM
+["How to make Animated GIF using Microsoft PowerPoint"](https://www.youtube.com/watch?v=szbFDKVHkOM)
 
