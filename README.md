@@ -2,6 +2,8 @@
 
 ## 嵌入式系統 - 課程公告與說明
 
+* [臺灣首位GitHub設計師現身說法：GitHub就是開發者的作品集](https://www.ithome.com.tw/news/95284)
+
 ## 上課時間:
 
 https://github.com/Grace-TA/ES-Fall2021/blob/main/CourceSchedule.md
