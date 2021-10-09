@@ -4,7 +4,7 @@
 
 * [臺灣首位GitHub設計師現身說法：GitHub就是開發者的作品集](https://www.ithome.com.tw/news/95284)
 
-## 上課時間:
+## 上課時間與時段:
 
 https://github.com/Grace-TA/ES-Fall2021/blob/main/CourceSchedule.md
 
