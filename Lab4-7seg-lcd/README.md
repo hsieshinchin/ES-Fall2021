@@ -41,15 +41,87 @@ seg71(1, 1, 1, 1, 1, 1, 1, 1); // 8
 
 ## Lab 4-2 如下圖的Demo, 用七段顯示器, 顯示 . →1→ ... → 9 → 0 → 全滅, 狀態改變的間隔時間為0.5秒
 
+### Circuit
 
+![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab4-7seg-lcd/Lab4-2.gif)
+
+### Code
+
+> 參考程式: 可參考Lab4-1的程式或是自行設計完成以上的任務.
 
 
 ## Lab 4-3 LCD顯示"Hello" + 你的英文名字 (e.g., "Hello Horace")
 
+### Circuit
+
+![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab4-7seg-lcd/Lab4-3.gif)
+
+### Code
 
 
 
 ## Lab 4-4 整合超音波感測器 + LCD: 參考之前的實作, 將超音波感測器傳回的距離, 在LCD上面顯示, 同時也和之前的實作一樣, 在序列輸出. 另外, 當物體的距離小於150cm時, 則亮紅色LED, 否則亮綠色LED
 
+### Circuit
+
+![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab4-7seg-lcd/Lab4-4.gif)
+
+### Code
+````C
+/*
+Developed for Embedded System Course, VNU by Horace. Fall 2021
+*/
+
+#include <LiquidCrystal.h> //LCD library
+  
+  #define echo 7
+  #define trig 7
+  
+  float  duration; // time taken by the pulse to return back
+  float  dd; // oneway distance travelled by the pulse
+  int RLED = 9;
+  int GLED = 8;
+  LiquidCrystal lcd(12, 11, 5, 4, 3, 2); 
+
+  void setup() {
+  
+	digitalWrite(RLED, OUTPUT);
+  digitalWrite(GLED, OUTPUT);
+    
+    Serial.begin(9600);
+    lcd.begin(16, 2);
+  
+  }
+  
+  void loop() {
+  
+    time_Measurement();
+    dd = duration * 0.01723;   
+
+/*
+		待完成
+*/
+
+    Serial.print("Distance, cm: ");
+    Serial.print(dd);
+    Serial.println();   
+    
+    delay(200); 
+    
+  }
+  
+  void time_Measurement()
+  { //function to measure the time taken by the pulse to return back
+    pinMode(trig, OUTPUT);
+    digitalWrite(trig, LOW);
+    delayMicroseconds(2);  
+    digitalWrite(trig, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(trig, LOW);
+    pinMode(echo, INPUT);  
+    duration = pulseIn(echo, HIGH);
+  }
+
+````
 
 
