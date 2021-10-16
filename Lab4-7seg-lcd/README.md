@@ -6,7 +6,11 @@
 
 ### Circuit
 
-![image](https://user-images.githubusercontent.com/89304181/137589897-c40100d5-3e87-4eca-a1b5-39c65ad7c3a8.png)
+<div align="left">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/137589897-c40100d5-3e87-4eca-a1b5-39c65ad7c3a8.png" 
+      width="70%" height="70%">
+    </div>
 
 ### Code
 
