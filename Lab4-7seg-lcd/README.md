@@ -63,6 +63,30 @@ seg71(1, 1, 1, 1, 1, 1, 1, 1); // 8
 
 ### Code
 
+````C
+// include the library code:
+#include <LiquidCrystal.h>
+
+// initialize the library with the numbers of the interface pins
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+
+void setup() {
+  // set up the LCD's number of columns and rows:
+  lcd.begin(16, 2);
+  // Print a message to the LCD.
+  lcd.print("hello, Horace!");
+}
+
+void loop() {
+  // set the cursor to column 0, line 1
+  // (note: line 1 is the second row, since counting begins with 0):
+  lcd.setCursor(0, 1);
+  // print the number of seconds since reset:
+  lcd.print(millis() / 100);
+````
+### O
+
+![image](https://user-images.githubusercontent.com/89304181/137607314-aeab5548-2264-46eb-b05d-ca0d6114a166.png)
 
 
 ## Lab 4-4 整合超音波感測器 + LCD: 參考之前的實作, 將超音波感測器傳回的距離, 在LCD上面顯示, 同時也和之前的實作一樣, 在序列輸出. 另外, 當物體的距離小於150cm時, 則亮紅色LED, 否則亮綠色LED
