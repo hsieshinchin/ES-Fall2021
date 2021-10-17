@@ -131,11 +131,6 @@ Developed for Embedded System Course, VNU by Horace. Fall 2021
 		待完成
 */
 
-    Serial.print("Distance, cm: ");
-    Serial.print(dd);
-    Serial.println();   
-    
-    delay(200); 
     
   }
   
