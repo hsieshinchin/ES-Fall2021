@@ -59,6 +59,8 @@ void loop()
 
 ### Code
 ````C
+// For Embedded System course, VNU, Fall 2021 
+
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
@@ -75,10 +77,10 @@ void loop() {
   lcd.setCursor(0,0);  
   lcd.print("TMP Sensor Demo");
 
-/*
-		待完成
-*/
-
+  float voltage = (reading/1024.0) * 5.0; // Convert to voltage
+  
+  // converting from 10mv per degree with 500mV offset  
+  float tempC = (voltage - 0.5) * 100.0; 
   lcd.setCursor(0,1);
   lcd.print("Tmp:");
   lcd.print(tempC);
