@@ -8,7 +8,7 @@
 4. 在你Colab Notebook顯示以下訊息(OOO: 你的英文名字; e.g., Joe biden)
 5. 新增文字儲存格 (請用你的英文名字)
 
-### 成果
+### 實作成果
 
 ![image](https://user-images.githubusercontent.com/89304181/140591920-5133e03b-f824-4ff4-af9f-23c1128fad48.png)
 
