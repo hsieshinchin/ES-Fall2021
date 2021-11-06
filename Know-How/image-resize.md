@@ -4,6 +4,14 @@ Please check the markdown code then you will know how to do it. Enjoy your time!
 
 ## Resize to 50% 
 
+````html
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
+      width="50%" height="50%">
+    </div>
+````
+
 <div align="center">
      <img 
       src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
@@ -12,6 +20,14 @@ Please check the markdown code then you will know how to do it. Enjoy your time!
 
 ## Resize to 75% 
 
+````html
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
+      width="75%" height="75%">
+    </div>
+````
+
 <div align="center">
      <img 
       src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
@@ -19,7 +35,7 @@ Please check the markdown code then you will know how to do it. Enjoy your time!
     </div>
 
 
-## Orginal Size (100%) 
+## Orginal Size (100%, 原始大小) 
 
 ![image](https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png)
 
