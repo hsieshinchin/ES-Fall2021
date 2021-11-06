@@ -16,6 +16,8 @@
       width="80%" height="80%">
     </div>
 
+---
+
 ## Lab 7-2 暖身: 一起來十分鐘學會Python
 
 ### 程式
@@ -73,6 +75,7 @@ printName('Grace', 'TA', True, 10)
       width="50%" height="50%">
     </div>
    
+---
 
 ## Lab 7-3 確認Lab7完成的兩個Notebook都成功的存在你的雲端硬碟/ES2021目錄下
 
