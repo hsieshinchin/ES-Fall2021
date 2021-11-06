@@ -74,7 +74,7 @@ printName('Grace', 'TA', True, 10)
     </div>
    
 
-## 我的雲端硬碟/ES2021
+## Lab 7-3 確認Lab7完成的兩個Notebook都成功的存在你的雲端硬碟/ES2021目錄下
 
 <div align="center">
      <img 
