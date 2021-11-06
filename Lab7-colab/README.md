@@ -15,7 +15,7 @@
 
 ## Lab 7-2 暖身: 一起來十分鐘學會Python
 
-### Code
+### 程式
 ````python
 # task 1: string variable
 name = "TA Grace"
@@ -62,7 +62,11 @@ printName('Grace', 'TA', True, 10)
 
 ````
 
-### Final Result
+### Task 5的結果
 
 ![image](https://user-images.githubusercontent.com/89304181/140593288-6e469d77-d817-44bd-ba32-ed5d99dd47d5.png)
+
+### 我的雲端硬碟/ES2021
+
+![image](https://user-images.githubusercontent.com/89304181/140593517-4d733763-a3b5-4206-9365-f4056aa57acb.png)
 
