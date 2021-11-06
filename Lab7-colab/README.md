@@ -10,8 +10,11 @@
 
 ### 實作成果
 
-![image](https://user-images.githubusercontent.com/89304181/140591920-5133e03b-f824-4ff4-af9f-23c1128fad48.png)
-
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/140591920-5133e03b-f824-4ff4-af9f-23c1128fad48.png" 
+      width="80%" height="80%">
+    </div>
 
 ## Lab 7-2 暖身: 一起來十分鐘學會Python
 
@@ -64,9 +67,20 @@ printName('Grace', 'TA', True, 10)
 
 ### Task 5的結果
 
-![image](https://user-images.githubusercontent.com/89304181/140593288-6e469d77-d817-44bd-ba32-ed5d99dd47d5.png)
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/140593288-6e469d77-d817-44bd-ba32-ed5d99dd47d5.png" 
+      width="50%" height="50%">
+    </div>
+   
 
 ### 我的雲端硬碟/ES2021
 
-![image](https://user-images.githubusercontent.com/89304181/140593517-4d733763-a3b5-4206-9365-f4056aa57acb.png)
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/140593517-4d733763-a3b5-4206-9365-f4056aa57acb.png" 
+      width="50%" height="70%">
+    </div>
+    
+
 
