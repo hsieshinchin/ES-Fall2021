@@ -12,7 +12,7 @@
 
 <div align="center">
      <img 
-      src="![image](https://user-images.githubusercontent.com/89304181/140594065-1ff5003b-1912-4d38-9bc7-43f19d521d3e.png)" 
+      src="https://user-images.githubusercontent.com/89304181/140594079-fea8f533-af17-4286-bbef-35bcd8c2f8d2.png" 
       width="80%" height="80%">
     </div>
 
