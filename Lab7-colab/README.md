@@ -12,7 +12,7 @@
 
 <div align="center">
      <img 
-      src="https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab7-colab/colab_md.gif" 
+      src="![image](https://user-images.githubusercontent.com/89304181/140594065-1ff5003b-1912-4d38-9bc7-43f19d521d3e.png)" 
       width="80%" height="80%">
     </div>
 
