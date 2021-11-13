@@ -20,4 +20,17 @@
 
 ### 實作1185 + Final Result (TBD)
 
+## Lab 8-3 建立我們的Colab Notebook (e.g., Filename: ShowPhoto.ipynb), 用Python來看一下有哪些圖像可進行分類 (Image Classification)
+
+### 實作: Show teapot
+
+![image](https://user-images.githubusercontent.com/89304181/141649607-1f654dab-f4f0-49bf-bf94-5f71fbca7107.png)
+
+### 實作: Show turtle
+
+![image](https://user-images.githubusercontent.com/89304181/141649609-636c620b-62c2-4072-90f9-354752fc7616.png)
+
+實作: 請自選一個來試試
+
+![image](https://user-images.githubusercontent.com/89304181/141649613-5026711d-f772-4b3a-8523-4eb29d188dff.png)
 
