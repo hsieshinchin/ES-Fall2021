@@ -9,7 +9,7 @@
 <div align="center">
      <img 
       src="https://user-images.githubusercontent.com/89304181/141648771-c537c6e3-5dbe-432a-8d4e-df2b0158b3b4.png" 
-      width="50%" height="50%">
+      width="60%" height="60%">
     </div>
 
 ---
@@ -20,8 +20,12 @@
 
 ### 實作1185 + Final Result (TBD)
 
-![image](https://user-images.githubusercontent.com/89304181/141650308-c39531f4-adec-4b35-9a4a-928d1c92f9a4.png)
-
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/141650308-c39531f4-adec-4b35-9a4a-928d1c92f9a4.pn" 
+      width="60%" height="60%">
+    </div>
+  
 ---
 
 ## Lab 8-3 建立我們的Colab Notebook (e.g., Filename: ShowPhoto.ipynb), 用Python來看一下有哪些圖像可進行分類 (Image Classification)
