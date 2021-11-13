@@ -334,6 +334,24 @@ y_cos2 = np.cos(x+pi)
 
 plt.subplots_adjust( left=0.1, right=1.5, top=1.5, bottom=0.1, wspace=0.2, hspace=0.2)
 
+plt.subplot(221)
+plt.plot(x, y_sin, color ='r') # red
+plt.title('sin_red by Grace')
+
+plt.subplot(222)
+plt.plot(x, y_cos, color ='g') # green
+plt.title('cos_green by Grac')
+
+plt.subplot(223)
+plt.plot(x, y_sin2, color ='y') # yellow
+plt.title('sin_yellow by Grace')
+
+plt.subplot(224)
+plt.plot(x, y_cos2, color ='b') # blue
+plt.title('cos_blue by Grace')
+
+plt.show()
+
 ### Final Result
 from datetime import datetime
 today = datetime.now()
