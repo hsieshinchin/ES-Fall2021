@@ -20,6 +20,10 @@
 
 ### 實作1185 + Final Result (TBD)
 
+![image](https://user-images.githubusercontent.com/89304181/141650308-c39531f4-adec-4b35-9a4a-928d1c92f9a4.png)
+
+---
+
 ## Lab 8-3 建立我們的Colab Notebook (e.g., Filename: ShowPhoto.ipynb), 用Python來看一下有哪些圖像可進行分類 (Image Classification)
 
 ### 實作體驗用Python Code, [link](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab8_Python/show-image.py)
