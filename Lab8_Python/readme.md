@@ -2,13 +2,7 @@
 
 ## Lab 8-1 零基礎Python快速入門與實作, 1/2, W13
 
-### Python Code
-
-````python
-
-# Undergoing
-
-````
+### Python Code, [colab](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab8_Python/QuickPython1.ipynb)
 
 ### 實作1175a + Final Result
 
