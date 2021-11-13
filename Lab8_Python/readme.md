@@ -18,7 +18,7 @@
 
 ### 實作體驗用Python Code, [link](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab8_Python/python2.py)
 
-### 實作1185 + Final Result (TBD)
+### 實作1185 + Final Result
 
 <div align="center">
      <img 
