@@ -5,7 +5,7 @@
 <div align="center">
      <img 
       src="https://user-images.githubusercontent.com/89304181/141663909-675e94e0-6cc4-445d-b207-4eac2833b6ed.png" 
-      width="60%" height="60%">
+      width="40%" height="40%">
     </div>
     
 ## Lab 8-1 零基礎Python快速入門與實作, 1/2, W13
