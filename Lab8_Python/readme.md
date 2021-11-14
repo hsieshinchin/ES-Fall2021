@@ -42,13 +42,31 @@
 
 ### 實作: Show teapot
 
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/141649607-1f654dab-f4f0-49bf-bf94-5f71fbca7107.png" 
+      width="100%" height="100%">
+    </div>
+    
 ![image](https://user-images.githubusercontent.com/89304181/141649607-1f654dab-f4f0-49bf-bf94-5f71fbca7107.png)
 
 ### 實作: Show turtle
 
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/141649609-636c620b-62c2-4072-90f9-354752fc7616.png" 
+      width="100%" height="100%">
+    </div>
+    
 ![image](https://user-images.githubusercontent.com/89304181/141649609-636c620b-62c2-4072-90f9-354752fc7616.png)
 
 實作: 請自選一個來試試
 
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/141649613-5026711d-f772-4b3a-8523-4eb29d188dff.png" 
+      width="100%" height="100%">
+    </div>
+    
 ![image](https://user-images.githubusercontent.com/89304181/141649613-5026711d-f772-4b3a-8523-4eb29d188dff.png)
 
