@@ -1,5 +1,9 @@
 # 實作8: 零基礎Python快速入門與實作
 
+## 暖身: 請同學先參考Lab8-3的程式, 並將老虎的圖像在Colab中Show出來
+
+![image](https://user-images.githubusercontent.com/89304181/141663909-675e94e0-6cc4-445d-b207-4eac2833b6ed.png)
+
 ## Lab 8-1 零基礎Python快速入門與實作, 1/2, W13
 
 ### 實作體驗用Python Code, [link](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab8_Python/python1.py)
