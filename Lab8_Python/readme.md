@@ -104,6 +104,6 @@ img_url = images_for_test_map[image_name]
 image, original_image = load_image(img_url, image_size, dynamic_size, max_dynamic_size)
 show_image(image, 'Scaled image')
 
-```
+````
 
 ![image](https://user-images.githubusercontent.com/89304181/142746689-074c1278-2690-4542-8554-74c1783f2d19.png)
