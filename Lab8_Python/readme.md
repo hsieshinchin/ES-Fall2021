@@ -107,3 +107,7 @@ show_image(image, 'Scaled image')
 ````
 
 ![image](https://user-images.githubusercontent.com/89304181/142746689-074c1278-2690-4542-8554-74c1783f2d19.png)
+
+# Reference Code:
+
+![image](https://user-images.githubusercontent.com/89304181/142749427-c22c154d-f2ac-40cc-ba63-2deccfeb88eb.png)
