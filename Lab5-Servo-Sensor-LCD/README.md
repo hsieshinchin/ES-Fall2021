@@ -54,7 +54,7 @@ void loop()
 
 ### Circuit
 
-![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/imag/TempSensor.png)
+![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/image/TempSensor.png)
 
 
 ### Code
