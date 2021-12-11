@@ -5,7 +5,7 @@
 
 ### Circuit
 
-![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab5/servo.gif)
+![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/image/servo.gif)
 
 ### Code
 
@@ -54,7 +54,7 @@ void loop()
 
 ### Circuit
 
-![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab5/TempSensor.png)
+![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/imag/TempSensor.png)
 
 
 ### Code
